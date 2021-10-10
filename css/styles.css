@@ -205,10 +205,10 @@ a:hover {
 .btn-outline-lg {
 	display: inline-block;
 	padding: 1.625rem 2.625rem 1.625rem 2.625rem;
-	border: 1px solid #cc2973;
+	border: 1px solid #168143;
 	border-radius: 30px;
 	background-color: transparent;
-	color: #cc2973;
+	color: #168143;
 	font-weight: 600;
 	font-size: 0.875rem;
 	line-height: 0;
@@ -217,7 +217,7 @@ a:hover {
 }
 
 .btn-outline-lg:hover {
-	background-color: #cc2973;
+	background-color: #168143;
 	color: #ffffff;
 	text-decoration: none;
 }
@@ -225,10 +225,10 @@ a:hover {
 .btn-outline-sm {
 	display: inline-block;
 	padding: 1rem 1.5rem 1rem 1.5rem;
-	border: 1px solid #cc2973;
+	border: 1px solid #168143;
 	border-radius: 30px;
 	background-color: transparent;
-	color: #cc2973;
+	color: #168143;
 	font-weight: 600;
 	font-size: 0.875rem;
 	line-height: 0;
@@ -237,7 +237,8 @@ a:hover {
 }
 
 .btn-outline-sm:hover {
-	background-color: #cc2973;
+	background-color: #4555d2;
+	border: 1px solid #4555d2;
 	color: #ffffff;
 	text-decoration: none;
 }
@@ -694,9 +695,9 @@ a:hover {
 .vision {
 	position: relative;
 	overflow: hidden;
-	padding-top: 7.2rem;
-	padding-bottom: 6rem;
-	background-color: rgb(253, 241, 255);
+	padding-top: 8rem;
+	padding-bottom: 4rem;
+	background-color: #f5f3e2de;
 }
 
 .vision .decoration-star {
@@ -736,8 +737,8 @@ a:hover {
 /*     Invitation     */
 /**********************/
 .basic-4 {
-	padding-top: 9.25rem;
-	padding-bottom: 9.75rem;
+	padding-top: 12.5rem;
+	padding-bottom: 10.5rem;
 	text-align: center;
 }
 
@@ -938,12 +939,12 @@ a:hover {
 }
 
 .footer .footer-col.third .fa-stack .fa-stack-1x {
-	color: #6b3e96;
+	color: #000000;
 	transition: all 0.2s ease;
 }
 
 .footer .footer-col.third .fa-stack:hover .fa-stack-2x {
-	color:#cc2973;
+	color:#168143;
 }
 
 .footer .footer-col.third .fa-stack:hover .fa-stack-1x {
